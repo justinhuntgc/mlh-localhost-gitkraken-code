@@ -1,4 +1,4 @@
-# MLH Localhost – Get Crackin' with Git using GitKraken -2
+﻿# MLH Localhost – Get Crackin' with Git using GitKraken -3
 
 In this workshop, participants learn how to use GitKraken's Git Client and Glo Boards to collaborate on a project. This is the source code for that project! 
 
